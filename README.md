@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:13.11.2025
-## Register Number:212224040068
-## Name:K DHANUSRI POOJA
+# Date:26.11.2025
+## Register Number:212224100054
+## Name:SENTHIL RAJ G
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
